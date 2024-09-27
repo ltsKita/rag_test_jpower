@@ -1,1 +1,6 @@
 rag_project/
+db(チャンク1000文字)/
+db/
+__pycache__/
+data/
+chroma_data_log.txt

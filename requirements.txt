@@ -1,0 +1,8 @@
+transformers
+torch
+langchain-huggingface
+langchain
+langchain-community
+PyPDF2
+langchain-chroma
+streamlit
